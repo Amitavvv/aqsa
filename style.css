@@ -844,8 +844,8 @@ body {
 .boxMail .boxMail-container .card1,
 .boxMail .boxMail-container .card2{
     position: absolute;
-    width: 400px;
-    height: 500px;
+    width: 450px;
+    height: 600px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -910,7 +910,7 @@ body {
 }
 .boxMail .boxMail-container .card2 .card2-content {
     width: 100%;
-    max-height: 380px;
+    max-height: 530px;
     position: relative;
     background-color: #FF7882;
     transition: all 1s;
